@@ -48,12 +48,12 @@ main{
 }
 
 .intro h2 {
-  font-size: 2vh;
+  font-size: 1.5vh;
   margin-bottom: 1vh;
 }
 
 .intro p {
-  font-size: 1.75vh;
+  font-size: 0.75vh;
   margin: 0;
   padding-bottom: 2.5vh;
 }
