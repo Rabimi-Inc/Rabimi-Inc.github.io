@@ -108,11 +108,11 @@ span{
 
 .logo-header > h1 {
   font-family: "Science Gothic", sans-serif;
-  font-weight: 350;
+  font-weight: 450;
   font-style: normal;
   font-variation-settings: "slnt" 0, "wdth" 100, "CTRS" 0;
   margin: 0;
-  font-size: 0.25vw;
+  font-size: 1.25vw;
   text-align: center;
 }
 
@@ -131,14 +131,14 @@ span{
 
 .header-url {
   display: flex;
-  gap: 1.5vh;
+  gap: 2.5vh;
 }
 
 .header-url a {
   color: black;
   text-decoration: underline;
   text-decoration-color: black;
-  font-size: 1.15vh;
+  font-size: 2vh;
 }
 main{
     text-align: center;
@@ -154,12 +154,12 @@ main{
 }
 
 .intro h2 {
-  font-size: 1.25vh;
+  font-size: 2vh;
   margin-bottom: 1vh;
 }
 
 .intro p {
-  font-size: 0.75vh;
+  font-size: 1.5vh;
   margin: 0;
   padding-bottom: 2.5vh;
 }
